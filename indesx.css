@@ -1,0 +1,10 @@
+footer{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+div.centro{
+    display: flex;
+    justify-content: center;
+    color:rgb(151, 55, 55);
+}
